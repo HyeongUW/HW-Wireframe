@@ -1,0 +1,39 @@
+header, nav, section, aside, footer {
+    background: #ebebeb;
+}
+header, nav, footer {
+    clear: both;
+    color: #333;
+    padding: 20px;
+    
+    text-align: center;
+    width:  495px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+/* in the middle */
+aside, section {
+    height: 495px;
+}
+aside {
+    float: left;
+}
+
+section {
+    width:  495px;
+    float: left;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+    background: '#777';
+    width: '960px';
+    font-size: '18px';
+}
+
+
+  
